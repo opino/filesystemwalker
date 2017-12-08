@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v16_d01.xmind -->
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Siegfried Kracauer an Salman Schocken</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+        <p><persName key="x" role="x">Thomas Burch</persName>, <persName key="71923" role="x">Vera
+            Hildenbrandt</persName>, <persName key="71920" role="hg">Roland S. Kamzelak</persName>,
+            <persName key="x" role="x">Paul Molitor</persName>, <persName key="x" role="x">Claudine
+            Moulin</persName>, <persName key="x" role="x">Jörg Ritter</persName></p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+        <p><bibl>A:Kracauer</bibl></p>
+
+        <ab type="copyright"><orgName key="76050">Suhrkamp Verlag</orgName></ab>
+        <ab type="leaves">2</ab>
+        <ab type="pages">2</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">cc</ab>
+        <ab type="script">ts</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA">F2</ab>
+        <ab type="location"><placeName key="49021" type="write" cert="medium" evidence="Adresszeile"
+            >New York</placeName></ab>
+        <ab type="date"><date when="1947-09-14" cert="high" evidence="Brieftext"
+          >14.9.1947</date></ab>
+        <ab type="role"><persName key="7721" role="aut">Siegfried Kracauer</persName></ab>
+        <ab type="role"><persName key="73655" role="rec">Salman Schocken</persName></ab>
+        <ab type="no" prev="x" next="x">321983</ab>
+        <ab type="reg"/>
+        <ab type="desc">Vermutl. ein Durchschlag, unsigniert.</ab>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+    <revisionDesc>
+      <change n="transcription">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="2013-11-13">13.11.2013</date>
+      </change>
+
+      <change n="transcription">
+        <persName key="x">Roberta Toscano</persName>
+        <date when="2014-08-06">6.8.2014</date>, <date when="2014-11-11">11.11.2014</date>, <date
+          when="2014-11-25">25.11.2014</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71922">Anne Lorenz</persName>
+        <date when="2014-08-26">26.8.2014</date>, <date when="2014-10-01">1.10.2014</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71921">Angelika Kreh</persName>
+        <date when="2013-11-20">20.11.2013</date>, <date when="2014-08-28">28.8.2014</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71920">Roland S. Kamzelak</persName>
+        <date when="2014-02-11">11.2.2014</date>
+      </change>
+
+      <change n="edition"/>
+
+
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+
+        <figure>
+          <graphic n="1" url="cor_krsi_scsa_19470914_cc_01"/>
+          <graphic n="2" url="cor_krsi_scsa_19470914_cc_02"/>
+        </figure>
+
+        <p>56 West 75<hi rend="sup">th</hi> Street<lb/><placeName key="49021" type="write">New
+            York</placeName> 23, <placeName key="50589">N.Y.</placeName></p>
+
+        <p rend="right"><date when="1947-09-14" cert="high">September 14, 1947</date></p>
+
+        <p>Mr. <persName key="73655" role="rec">Salman Schocken</persName><lb/>Windy
+          Hill<lb/>Hunting Ridge Road<lb/><placeName key="74653">Stamford</placeName>, <placeName
+            key="51873">Conn.</placeName></p>
+
+        <p><emph n="salutation">Sehr geehrter, lieber Herr <persName key="73655" role="rec"
+              >Schocken</persName></emph>:</p>
+
+        <p>Haben Sie Dank für Ihre freundlichen <rs n="322223">Zeilen</rs> aus denen ich ersehe,
+          dass Sie mich nicht vergessen haben &#x2013; wenn Sie auch keine Möglichkeit einer
+          Mitarbeit für mich sehen. <foreign n="engl">This is bad news, but I guess it cannot be
+            helped</foreign>.</p>
+
+        <p>Ich hatte in der Tat Ihrer Sekretärin<note type="reg"><persName key="x">Engel,
+              ???</persName></note> zwei- oder dreimal angerufen, nicht nur des Bescheides wegen,
+          den Sie mir ja jetzt gegeben haben, sondern auch in der Hoffnung auf ein persönliches
+          Gespräch, in dem ich einige Dinge zur Sprache bringen wollte, die Sie vielleicht
+          interessieren. Lassen Sie mich wenigstens andeuten, was ich im Sinne hatte.</p>
+
+        <p>Mir wurde von dritter Seite erzählt, dass Sie die Herausgabe einiger Werke von <persName
+            key="5584">Joseph Roth</persName> planten. Und ich wollte Ihnen sagen, dass <persName
+            key="5584">Roth</persName> mein langjähriger, persönlicher Freund war, dass ich eine
+          Reihe intimer Briefe aus den "Frankfurter Zeitung" Jahren und später von ihm besitze, und
+          dass ich mich aus diesen Gründen für sehr geeignet hielte Sie bei Ihrem Unternehmen zu
+          unterstützen.(Vorausgesetzt natürlich, dass an der mir zugegangenen Mitteilung überhaupt
+          etwas ist.)</p>
+
+        <p>Ferner wollte ich Ihnen Ideen für zwei Bücher unterbreiten, die mir verlegerisch nicht
+          schlecht erscheinen und sich meiner Ansicht nach gut in den Rahmen Ihres Verlages einfügen
+          würden. Aber in ein paar Zeilen lässt sich das nicht sagen. Ich glaube es wäre richtiger
+          Ihnen diese Ideen mündlich vorzutragen.<pb n="2"/> Mein Buch ist ein grosser Erfolg, der
+          sich immer weiter und tiefer auswirkt, soviel steht jetzt eindeutig fest. Das Malheur ist
+          nur, dass ich selber darum nicht besser dran bin als vorher, sondern, im Gegenteil,
+          schlechter. Ich hänge zur Zeit ganz in der Luft. Vielleicht muss ich noch etwas Geduld
+          haben...</p>
+
+        <p rend="center"><emph n="salute">Viele gute Wünsche für Sie zum Neuen Jahr</emph>.</p>
+
+        <p rend="center"><emph n="salute">Mit freundlichen Grüssen<lb/>Ihr sehr
+          ergebener</emph>,</p>
+
+        <p rend="center"><persName key="7721" role="aut">Siegfried Kracauer</persName></p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

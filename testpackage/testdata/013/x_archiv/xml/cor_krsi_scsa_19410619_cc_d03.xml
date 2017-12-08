@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v13_d01.xmind -->
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Siegfried Kracauer an Salman Schocken</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+        <p><persName key="x" role="x">Thomas Burch</persName>, <persName key="71923" role="x">Vera
+            Hildenbrandt</persName>, <persName key="71920" role="hg">Roland S. Kamzelak</persName>,
+            <persName key="x" role="x">Paul Molitor</persName>, <persName key="x" role="x">Claudine
+            Moulin</persName>, <persName key="x" role="x">Jörg Ritter</persName></p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+        <p><bibl>A:Kracauer</bibl></p>
+
+        <ab type="copyright"/>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">cc</ab>
+        <ab type="script">ts-h</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA">F2</ab>
+        <ab type="location"><placeName type="write" key="49021" cert="x" evidence="x">New York
+            City</placeName></ab>
+        <ab type="date"><date n="1941-06-19" cert="high" evidence="x">19.6.1941</date></ab>
+        <ab type="role"><persName key="7721" role="aut">Siegfried Kracauer</persName></ab>
+        <ab type="role"><persName key="73655" role="rec">Salman Schocken</persName></ab>
+        <ab type="no" prev="x" next="x">321979</ab>
+        <ab type="reg"/>
+        <ab type="desc">Vermutl. ein Durchschlag, unsigniert.</ab>
+
+
+      </sourceDesc>
+
+    </fileDesc>
+
+    <revisionDesc>
+      <change n="transcription">
+        <persName key="71922">Anne Lorenz</persName>
+        <date n="2013-11-12">12.11.2013</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71921">Angelika Kreh</persName>
+        <date n="2013-11-20">20.11.2013</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71920">Roland S. Kamzelak</persName>
+        <date n="2014-02-11">11.2.2014</date>
+      </change>
+
+      <change n="edition"/>
+
+
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+
+        <figure>
+          <graphic n="1" url="cor_krsi_scsa_19410619_cc_01"/>
+        </figure>
+
+
+        <p><placeName type="write" key="74640">48 West 68<hi rend="sup">th</hi>
+            Street</placeName><lb/><placeName type="write" key="49021">New York
+          City</placeName><lb/>TR4-9422 (zwischen 1/2 und 3/4 9 Uhr früh, nicht<lb/>später)</p>
+
+        <p rend="right"><date n="1941-06-19">19. Juni 1941</date></p>
+
+        <p><emph n="salutation">Sehr geehrter Herr <persName key="73655" role="rec"
+              >Schocken</persName></emph>,</p>
+
+        <p>ich versuchte Sie ein paar mal telefonisch zu erreichen, traf Sie aber leider nicht
+          an.</p>
+
+        <p>Ich rief Sie in der Hoffnung an, dass Sie wieder einmal etwas Zeit hätten. Lassen Sie
+          mich Ihnen jedenfalls sagen, dass ich mich sehr freute, Sie wieder zu sehen und zu
+          sprechen. Unsere Unterhaltung seinerzeit hatte mich besonders glücklich gemacht.</p>
+
+        <p>Meine Rockefeller-Sache soll bald zur Entscheidung kommen. So gut die Angelegenheit
+          eingeleitet ist, voraussagen lässt sich das Resultat eines Board-Meetings nicht.</p>
+
+        <p>Prof. <persName key="74639">Meyer Schapiro</persName> ist eben auf seiner Farm in
+            <placeName key="50331">Vermont</placeName>, will aber in der allernächsten Zeit
+          vorübergehend zurückkommen<note type="intern">Durchschlag an dieser Stelle beschädigt,
+            daher evtl. hier fehlender Punkt</note></p>
+
+        <p rend="right"><emph n="salute">Mit aufrichtiger Hochachtung und freundlichen
+            Grüssen</emph></p>
+        <p rend="right"><emph n="salute">Ihr sehr ergebener</emph></p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

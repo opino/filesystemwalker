@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Brief_intern.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert von DOM_briefe_v18_d01.xmind-->
+<!--Transformiert zu EdView_Brief_03.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Briefwechsel August Rodin - Harry Graf Kessler</title>
+            <respStmt>
+               <resp ref="http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html">Herausgeberinformation</resp>
+               <orgName/>
+               <persName/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab>
+                  <bibl/>
+               </ab>
+               <p>
+                  <ref n="project">http://www.exilnetz33.de</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution/>
+                     <repository/>
+                     <idno/>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type"/>
+                        <ab type="subtype"/>
+                        <ab type="edition"/>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc>Das Briefpapier enthält einen roten Vordruck mit der
+                        Adresse: 182, RUE DE L'UNIVERSITÉ Vermutlich von Hand des Sekretärs René Chéruy</desc>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="116">Rodin, Auguste</persName>
+               <date when="1904-06-12">12.6.1904</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="8299">Harry Graf Kessler</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="frz">Französisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="cor_roau_hgk_19040612_or_01" n="1"/>
+      <graphic url="cor_roau_hgk_19040612_or_02" n="2"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head/>
+            <p>
+               <note type="intern">Das Briefpapier enthält einen roten Vordruck mit der
+                        Adresse: 182, <rs>RUE DE L'UNIVERSITÉ</rs>
+               </note>
+               <note type="intern">Vermutlich von Hand des Sekretärs <persName>René Chéruy</persName>
+               </note>
+               <date n="1904-06-12">12 Juin 1904</date>A Monsieur le Comte de Kessler<note>
+                  <persName role="rec">HGK</persName>
+               </note>
+               <placeName>Weimar</placeName>
+            </p>
+            <p>
+               <emph n="salutation">Monsieur le Comte de Kessler<note>
+                     <persName role="rec"/>
+                  </note>
+               </emph>
+            </p>
+            <p>Ainsi que je viens de vous le tèlégraphie, je ne puis me rendre
+                    à <placeName>Weimar</placeName>, à mon grand regret; j'ai attendu
+                    jusqu'au dernier moment espérant être mieux et pouvoir vous donner
+                    une réponse affirmative; mais je ne puis car je suis profondément
+                    fatigué, et je souffre de névralgies. –</p>
+            <p>Je suis très honoré que l'exposition s'ouvre sous les auspices de
+                    son <persName>Altesse le Princesse de Saxe-Weimar</persName>, et sous votre
+                    direction, – et je vous serais très reconnaissant de vouloir <pb/> bien exprimer combien je suis affligé de ne
+                    pouvoir profiter de l'honneur que l'on voulait bien me faire à la cour et
+                    à l'université d'Jéna. </p>
+            <p>L'an prochain j'exposerai d'une façon plus importante, l'éclairage
+                    sera plus favorable, j'étendrai mes dispositions et je viendrai.
+                    –</p>
+            <pb/>
+            <p>Merci encore mille fois pour votre amabilité si sympathique, et croyez
+                    bien que je suis très affligé de cette entrave à des
+                    projets déjà faits. –</p>
+            <p>Ainsi qu' à ma grande sympathie, je vous prie Monsieur le Comte de Kessler<note>
+                  <persName role="rec"/>
+               </note> de croire à mes
+                    sentiments de haute considération. Aug. <hi rend="ul">Rodin</hi>
+               <note>
+                  <persName role="author">AR</persName>
+               </note>
+               <note type="intern">Unterschrift eigenhändig von Rodin</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

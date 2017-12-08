@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Brief_intern.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert von DOM_briefe_v18_d01.xmind-->
+<!--Transformiert zu EdView_Brief_03.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="321979">
+         <titleStmt>
+            <title>Siegfried Kracauer an Salman Schocken</title>
+            <respStmt>
+               <resp ref="http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html">Herausgeberinformation</resp>
+               <orgName/>
+               <persName/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>
+                  <ref n="project">http://www.exilnetz33.de</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab n="exploitation" type="copyright">
+               <orgName key="77582">Suhrkamp Verlag</orgName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990">Deutsches Literaturarchiv Marbach</institution>
+                     <repository key=""/>
+                     <idno>A:Kracauer</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves">1</ab>
+                        <ab type="pages">1</ab>
+                        <ab type="type">lt</ab>
+                        <ab type="subtype">cc</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                     </objectDesc>
+                     <handDesc n="typescriptHand">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc>Vermutlich ein Durchschlag, unsigniert. Am rechten Rand ist das Blatt
+          mehrfach eingerissen.</desc>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="7721">Siegfried Kracauer</persName>
+               <placeName key="49021" cert="medium" evidence="address">New York</placeName>
+               <date when="1941-06-19" cert="high" evidence="text">19.6.1941</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="73655">Salman Schocken</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="de">deutsch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic n="1" url="cor_krsi_scsa_19410619_cc_01"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <ab type="salutationType">F3</ab>
+            <p>48 West 68<hi rend="sup">th</hi> Street<lb/>
+               <placeName key="49021" type="write">New York
+            City</placeName>
+               <lb/>TR4-9422 (zwischen ½ und ¾ 9 Uhr früh,
+          nicht<lb/>später)</p>
+            <p rend="right">
+               <date when="1941-06-19" cert="high">19. Juni 1941</date>
+            </p>
+            <p>
+               <emph n="salutation">Sehr geehrter Herr <persName key="73655" role="recipient">Schocken</persName>
+               </emph>,</p>
+            <p>ich versuchte Sie ein paar mal telefonisch zu erreichen, traf Sie aber leider nicht
+          an.</p>
+            <p>Ich rief Sie in der Hoffnung an, dass Sie wieder einmal etwas Zeit hätten. Lassen Sie
+          mich Ihnen jedenfalls sagen, dass ich mich sehr freute, Sie wieder zu sehen und zu
+          sprechen. Unsere Unterhaltung seinerzeit hatte mich besonders glücklich gemacht.</p>
+            <p>Meine Rockefeller-Sache soll bald zur Entscheidung kommen. So gut die Angelegenheit
+          eingeleitet ist, voraussagen lässt sich das Resultat eines Board-Meetings nicht.<note type="com" cert="high">Durch ein Stipendium der <orgName key="70023">Rockefeller
+              Foundation</orgName> erhält Kracauer für zwei Jahre eine Anstellung an der <orgName key="76774">Film Library des Museum of Modern
+              Art</orgName> in <placeName key="49021">New York</placeName>.</note>
+            </p>
+            <p>Prof. <persName key="74639">Meyer Schapiro</persName> ist eben auf seiner Farm in
+            <placeName key="50331">Vermont</placeName>, will aber in der allernächsten Zeit
+          vorübergehend zurückkommen<gap reason="Blattabriss"/>
+            </p>
+            <p rend="right">
+               <emph n="salute">Mit aufrichtiger Hochachtung und freundlichen
+            Grüssen<lb/>Ihr sehr ergebener</emph>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

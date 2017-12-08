@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Brief_intern.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert von DOM_briefe_v18_d01.xmind-->
+<!--Transformiert zu EdView_Brief_03.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Briefwechsel August Rodin - Harry Graf Kessler</title>
+            <respStmt>
+               <resp ref="http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html">Herausgeberinformation</resp>
+               <orgName/>
+               <persName/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab>
+                  <bibl/>
+               </ab>
+               <p>
+                  <ref n="project">http://www.exilnetz33.de</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution/>
+                     <repository/>
+                     <idno/>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type"/>
+                        <ab type="subtype"/>
+                        <ab type="edition"/>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc>Das Briefpapier enthält einen roten Vordruck mit der
+                        Adresse: 182, RUE DE L'UNIVERSITÉ Vermutlich von Hand des Sekretärs René Chéruy</desc>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="116">Rodin, Auguste</persName>
+               <date when="1904-08-14">14.8.1904</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="8299">Harry Graf Kessler</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="frz">Französisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="cor_roau_hgk_19040814_or_01" n="1"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head/>
+            <p>
+               <note type="intern">Das Briefpapier enthält einen roten Vordruck mit der
+                        Adresse: 182, <rs>RUE DE L'UNIVERSITÉ</rs>
+               </note>
+               <note type="intern">Vermutlich von Hand des Sekretärs <persName>René Chéruy</persName>
+               </note>
+               <date n="1904-08-14">14 Août 1904</date>AMonsieur le Comte de Kessler<note>
+                  <persName role="rec">HGK</persName>
+               </note>
+               <placeName>Weimar</placeName>
+            </p>
+            <p>
+               <emph n="salutation">Monsieur le Comte de Kessler<note>
+                     <persName role="rec"/>
+                  </note>
+               </emph>
+            </p>
+            <p>J'ai lu la traduction de la petite étude qui précède le
+                    catalogue de l'exposition de mes œuvres et que vous avez eu <pb/>
+                    l'amabilité de m'envoyer. Permettez moi de vous dire que je la trouve
+                    nouvelle et absolument bien, et que je vous en remercie vivement,</p>
+            <p>Je suis heureux à cette occasion de vous renouveler mes sincères
+                    sentiments de haute considération et de grande sympathie.</p>
+            <p>
+               <emph n="salute">
+                  <persName key="AR" role="signed">Aug Rodin</persName>
+               </emph>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Brief_intern.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert von DOM_briefe_v18_d01.xmind-->
+<!--Transformiert zu EdView_Brief_03.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Briefwechsel August Rodin - Harry Graf Kessler</title>
+            <respStmt>
+               <resp ref="http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html">Herausgeberinformation</resp>
+               <orgName/>
+               <persName/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab>
+                  <bibl/>
+               </ab>
+               <p>
+                  <ref n="project">http://www.exilnetz33.de</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution/>
+                     <repository/>
+                     <idno/>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type"/>
+                        <ab type="subtype"/>
+                        <ab type="edition"/>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc>Vermutlich von Hand des Sekretärs René Chéruy</desc>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="116">Rodin, Auguste</persName>
+               <date when="1904-11-08">8.11.1904</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="8299">Harry Graf Kessler</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="frz">Französisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="cor_roau_hgk_19041108_or_01" n="1"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head/>
+            <p>
+               <note type="intern">Vermutlich von Hand des Sekretärs <persName>René Chéruy</persName>
+               </note>
+               <placeName>
+                  <unclear>Paris</unclear>
+               </placeName> le<date n="1904-11-08"> mardi 8. Novembre 1904</date>
+            </p>
+            <p>Monsieur Rodin<note>
+                  <persName role="author"/>
+               </note> présente ses respectueuses
+                    salutations à Monsieur le Comte de Kessler<note>
+                  <persName role="rec"/>
+               </note>, et
+                    l'attendra demain Mercredi matin à son atelier 182 <rs>rue
+                        de l'Université</rs> à dix heures. —</p>
+         </div>
+      </body>
+   </text>
+</TEI>

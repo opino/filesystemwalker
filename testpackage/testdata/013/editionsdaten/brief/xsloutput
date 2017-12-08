@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Brief_intern.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert von DOM_briefe_v18_d01.xmind-->
+<!--Transformiert zu EdView_Brief_03.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Briefwechsel August Rodin - Harry Graf Kessler</title>
+            <respStmt>
+               <resp ref="http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html">Herausgeberinformation</resp>
+               <orgName/>
+               <persName/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab>
+                  <bibl/>
+               </ab>
+               <p>
+                  <ref n="project">http://www.exilnetz33.de</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution/>
+                     <repository/>
+                     <idno/>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type"/>
+                        <ab type="subtype"/>
+                        <ab type="edition"/>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <description type="intern">Das Briefpapier enthält einen roten Vordruck mit der
+                        Adresse: 182, RUE DE L'UNIVERSITÉ Von Hand des Sekretärs René
+                            Chéruy</description>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="116">Rodin, Auguste</persName>
+               <date when="1904-03-07">7.3.1904</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="8299">Harry Graf Kessler</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="frz">Französisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="cor_roau_hgk_19040307_or_01" n="1"/>
+      <graphic url="cor_roau_hgk_19040307_or_02" n="2"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <p>
+               <note type="interna">Das Briefpapier enthält einen roten Vordruck mit der
+                        Adresse: 182, <rs>RUE DE L'UNIVERSITÉ</rs>
+               </note>
+               <note type="interna">Von Hand des Sekretärs <persName>René
+                            Chéruy</persName>
+               </note>
+               <date n="1904-03-07">7 mars 1904</date>
+            </p>
+            <p>
+               <emph n="salutation">mon cher Maître<note>
+                     <persName role="rec">HGK</persName>
+                  </note>
+               </emph>
+            </p>
+            <p>J'ai l'honneur de vous écrire de la part de <name>Monsieur Rodin</name>au
+                    sujet de l'exposition de <placeName>Weimar</placeName>, du comité de
+                    laquelle vous faites partie je crois. <name>Monsieur Rodin</name> a reçu
+                    précédemment la visite de Monsieur le Comte de
+                        Kessler<note>
+                  <persName role="rec"/>
+               </note> qui lui a parlé d'une salle qui serait
+                    réserveé à <name>Monsieur <pb/>Rodin</name> pour sa
+                    sculpture. Je me permets de m'adresser à vous pour vous demander s'il y a
+                    un <hi rend="ul">secrétaire</hi> de <hi rend="ul">l'exposition</hi> de
+                        <placeName>Weimar</placeName>, et quelle est son adresse, afin que je puisse
+                    entrer en relations avec lui, <name>Monsieur Rodin</name> ayant besoin de
+                    diffèrents renseignements sur la date de l'Exposition, si une salle lui
+                    serait réservée, quelle serait sa disposition, son
+                    éclairage, ses dimensions son <unclear>p</unclear>lan.</p>
+            <p>Je prends la liberté de vous <pb/>
+                    ènumèrer ces questions, pour que à l'occasion si vous aviez
+                    quelques renseignements sur ces questions vous puissiez en faire part à
+                            <name>M<hi rend="sup">r</hi>Rodin</name>. Espèrant entrer par
+                    votre bienveillante intervention avec le secrétaire de l'Exposition, je
+                    pense ne plus avoir à vous déranger par mes questions, </p>
+            <p> Et je vous prie Mon cher Maître
+                    <note>
+                  <persName role="rec"/>
+               </note>d'agrèer mes respectueuses salutations. Pour M<hi rend="sup">e</hi>Rodin</p>
+            <p>
+               <emph n="salute">
+                  <persName key="1" role="signed">René Chéruy</persName> secrétaire.</emph>
+            </p>
+            <pb/>
+            <note type="interna">Von der Hand <persName>Max Liebermann</persName>s</note>
+            <p>
+               <emph n="salutation">Lieber Herr Graf<note>
+                     <persName role="rec">HGK</persName>
+                  </note>,</emph>
+            </p>
+            <p>ich sende Ihnen <unclear>umstehendes</unclear>, da es doch mehr
+                        an Ihre als an meine Addresse gerichtet <unclear>ist</unclear>
+                        (übrigens <unclear>leiste ehedem<lb/>
+                            teristisch</unclear> für <name>R.</name>) — </p>
+            <p> Auch sende ich Ihnen <unclear>unser</unclear>
+               <unclear>X Cend</unclear>
+               <rs>“ <unclear>Et Crim u</unclear> die
+                            deutschen <unclear>Künstler</unclear>”</rs>, das
+                        Sie vielleicht noch mit hinein<unclear>ziehn</unclear>
+                        können in Ihre <unclear>Entgeg<lb/>nung</unclear>. Es wird
+                        dort eigentlich alles <unclear>XXX</unclear> getan, was von
+                        unsrer <unclear>Seite</unclear> be<unclear>haup</unclear>tet wurde; sonst<unclear>nur</unclear>
+                        perfiede Insinuationen die <unclear>durch</unclear>
+               <unclear>Nichts</unclear> zu beweisen sind. Immerhin, da Ihre
+                            <unclear>Entgeg</unclear>
+               <unclear>nung</unclear>
+                        doch den Abge<lb/>ordneten zugestellt werden wird, ist es wichtig <unclear>genug</unclear> daß Sie drauf eingehen damit das
+                            <unclear>Fatyr</unclear>
+               <unclear>schied</unclear>
+                        nicht falle: <persName>
+                  <unclear>Tschudi</unclear>
+               </persName>
+                        erzählte mir heut, daß er im großen <unclear>Tor
+                            Unlindsua</unclear>l die neueste <unclear>Erwerbung</unclear> “<name type="work">General von <unclear>so</unclear> u <unclear>so</unclear>
+               </name>” von <persName>A v Werner</persName> neben einem <rs>Rodin</rs> ausgestellt habe. Selbst <persName>A v
+                            W</persName> hätte so etwas noch nicht verbrochen! — Wann kommen
+                        Sie? Ich arbeite kolossal, <unclear>warum</unclear> können
+                        Sie sich denken. Schreiben Sie bitte <persName>Rodin</persName>, daß
+                        ich Ihnen den Brief übersandt hätte. Leider kann ich Ihnen <unclear>reales</unclear>
+               <note type="interna">die folgenden Zeilen sind an den linken Rand
+                            geschrieben:</note> nicht schreiben, was man sich hier erzæhlt
+                            <unclear>über die</unclear>
+               <unclear>Reichstags</unclear>debatte. Beides will <persName>Kardorff</persName>
+               <hi rend="ul">nicht</hi>
+               <unclear/>rechen dagegen <persName>Gamp</persName> von den
+                        Freikonservativen <note type="interna">Karl von Gamp-Massaunen</note>. Ich
+                        glaube, Sie müßten doch her kommen!</p>
+            <p>
+               <note type="interna">am oberen Rand:</note>die 20,000 <unclear>M</unclear> hat <persName>Herr M<unclear>ele</unclear>
+               </persName> wohl bereits eingesandt.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

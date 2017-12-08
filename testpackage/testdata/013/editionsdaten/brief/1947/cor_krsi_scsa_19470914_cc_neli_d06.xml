@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Brief_intern.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert von DOM_briefe_v18_d01.xmind-->
+<!--Transformiert zu EdView_Brief_03.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="321983">
+         <titleStmt>
+            <title>Siegfried Kracauer an Salman Schocken</title>
+            <respStmt>
+               <resp ref="http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html">Herausgeberinformation</resp>
+               <orgName/>
+               <persName/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>
+                  <ref n="project">http://www.exilnetz33.de</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab n="exploitation" type="copyright">
+               <orgName key="77582">Suhrkamp Verlag</orgName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990">Deutsches Literaturarchiv Marbach</institution>
+                     <repository key=""/>
+                     <idno>A:Kracauer</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves">2</ab>
+                        <ab type="pages">2</ab>
+                        <ab type="type">lt</ab>
+                        <ab type="subtype">cc</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                     </objectDesc>
+                     <handDesc n="typescript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc>Vermutlich ein Durchschlag, unsigniert.</desc>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="7721">Siegfried Kracauer</persName>
+               <placeName key="49021" cert="medium" evidence="address">New York</placeName>
+               <date when="1947-09-14" cert="high" evidence="text">14.9.1947</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="73655">Salman Schocken</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="de">deutsch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic n="1" url="cor_krsi_scsa_19470914_cc_01"/>
+      <graphic n="2" url="cor_krsi_scsa_19470914_cc_02"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <ab type="salutationType">F2</ab>
+            <p>56 West 75<hi rend="sup">th</hi> Street<lb/>
+               <placeName key="49021" type="write">New
+            York</placeName> 23, <placeName key="50589">N.Y.</placeName>
+            </p>
+            <p rend="right">
+               <date when="1947-09-14" cert="high">September 14, 1947</date>
+            </p>
+            <p>Mr. Salman Schocken<lb/>Windy Hill<lb/>Hunting Ridge Road<lb/>
+               <placeName key="74653">Stamford</placeName>, <placeName key="51873">Conn.</placeName>
+            </p>
+            <p>
+               <emph n="salutation">Sehr geehrter, lieber Herr <persName key="73655" role="recipient">Schocken</persName>
+               </emph>:</p>
+            <p>Haben Sie Dank für Ihre freundlichen <rs n="322223">Zeilen</rs> aus denen ich ersehe,
+          dass Sie mich nicht vergessen haben – wenn Sie auch keine Möglichkeit einer
+          Mitarbeit für mich sehen. <foreign n="engl">This is bad news, but I guess it cannot be
+            helped.</foreign>
+            </p>
+            <p>Ich hatte in der Tat Ihrer Sekretärin<note type="com" cert="high">Vermutlich Frau
+              <persName key="74652">Engel</persName>, vgl. Schockens <rs n="322223">Brief</rs> vom
+            5.9.1947.</note> zwei- oder dreimal angerufen, nicht nur des Bescheides wegen, den Sie
+          mir ja jetzt gegeben haben, sondern auch in der Hoffnung auf ein persönliches Gespräch, in
+          dem ich einige Dinge zur Sprache bringen wollte, die Sie vielleicht interessieren. Lassen
+          Sie mich wenigstens andeuten, was ich im Sinne hatte.</p>
+            <p>Mir wurde von dritter Seite erzählt, dass Sie die Herausgabe einiger Werke von <persName key="5584">Joseph Roth</persName> planten. Und ich wollte Ihnen sagen, dass <persName key="5584">Roth</persName> mein langjähriger, persönlicher Freund war, dass ich eine
+          Reihe intimer Briefe aus den <name type="periodical" key="70949">"Frankfurter Zeitung"</name>
+          Jahren und später von ihm besitze, und dass ich mich aus diesen Gründen für sehr geeignet
+          hielte Sie bei Ihrem Unternehmen zu unterstützen.(Vorausgesetzt natürlich, dass an der mir
+          zugegangenen Mitteilung überhaupt etwas ist.)</p>
+            <p>Ferner wollte ich Ihnen Ideen für zwei Bücher unterbreiten, die mir verlegerisch nicht
+          schlecht erscheinen und sich meiner Ansicht nach gut in den Rahmen Ihres Verlages<note type="reg">
+                  <orgName key="74647">Schocken Books</orgName>
+               </note> einfügen würden. Aber in
+          ein paar Zeilen lässt sich das nicht sagen. Ich glaube es wäre richtiger Ihnen diese Ideen
+          mündlich vorzutragen.<pb corresp="2" n="2"/> Mein Buch<note type="reg">
+                  <name type="work" key="77192">Von Caligari zu Hitler</name>
+               </note> ist ein grosser Erfolg, der sich immer weiter
+          und tiefer auswirkt, soviel steht jetzt eindeutig fest. Das Malheur ist nur, dass ich
+          selber darum nicht besser dran bin als vorher, sondern, im Gegenteil, schlechter. Ich
+          hänge zur Zeit ganz in der Luft. Vielleicht muss ich noch etwas Geduld haben...</p>
+            <p rend="center">
+               <emph n="salute">Viele gute Wünsche für Sie zum Neuen Jahr</emph>.</p>
+            <p rend="center">
+               <emph n="salute">Mit freundlichen Grüssen<lb/>Ihr sehr
+          ergebener</emph>,</p>
+            <p rend="center">
+               <persName key="7721" role="signed">Siegfried Kracauer</persName>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

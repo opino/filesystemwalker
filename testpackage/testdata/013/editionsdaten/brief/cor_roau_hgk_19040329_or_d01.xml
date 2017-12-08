@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Brief_intern.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert von DOM_briefe_v18_d01.xmind-->
+<!--Transformiert zu EdView_Brief_03.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Briefwechsel August Rodin - Harry Graf Kessler</title>
+            <respStmt>
+               <resp ref="http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html">Herausgeberinformation</resp>
+               <orgName/>
+               <persName/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab>
+                  <bibl/>
+               </ab>
+               <p>
+                  <ref n="project">http://www.exilnetz33.de</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution/>
+                     <repository/>
+                     <idno/>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type"/>
+                        <ab type="subtype"/>
+                        <ab type="edition"/>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc>Das Briefpapier enthält einen roten Vordruck mit der
+                        Adresse: 182, RUE DE L'UNIVERSITÉ Von Hand des Sekretärs René
+                            Chéruy</desc>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="116">Rodin, Auguste</persName>
+               <date when="1904-03-29">29.3.1904</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="8299">Harry Graf Kessler</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="frz">Französisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="cor_roau_hgk_19040329_or_01" n="1"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head/>
+            <p>
+               <note type="intern">Das Briefpapier enthält einen roten Vordruck mit der
+                        Adresse: 182, <rs>RUE DE L'UNIVERSITÉ</rs>
+               </note>
+               <note type="intern">Von Hand des Sekretärs <persName>René
+                            Chéruy</persName>
+               </note>
+               <date n="1904-03-29">29 mars 1904</date>
+            </p>
+            <p>
+               <emph n="salutation">Monsieur le Comte de Kessler<note>
+                     <persName role="rec">HGK</persName>
+                  </note>
+               </emph>
+            </p>
+            <p>J'ai l'honneur de vous adresser tous mes remerciments pour les deux
+                    réponses que vous avez en la si grande obligeance de <unclear>m'</unclear>envoyer. J'avais posé cette question au sujet du
+                    secrétariat <pb/>et de l'Exposition, à Monsieur <persName>Max
+                        Liebermann</persName> précisément par crainte de vous
+                    importuner.</p>
+            <p>
+               <name>Monsieur Rodin</name>sera très touché et moi-même je
+                    suis trés confus, de la peine que vous avez prise en me repondant,</p>
+            <p>Et avec toutes mes excuses pour ce dérangement, je vous
+                    prie d'agréer Monsieur le Comte<note>
+                  <persName role="rec"/>
+               </note> mes
+                    respectueuses salutations.</p>
+            <p>
+               <emph n="salute">
+                  <persName key="1" role="signed">René Chéruy</persName>
+               </emph>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

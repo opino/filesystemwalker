@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Brief_intern.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert von DOM_briefe_v18_d01.xmind-->
+<!--Transformiert zu EdView_Brief_03.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="321989">
+         <titleStmt>
+            <title>Siegfried Kracauer an Salman Schocken</title>
+            <respStmt>
+               <resp ref="http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html">Herausgeberinformation</resp>
+               <orgName/>
+               <persName/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>
+                  <ref n="project">http://www.exilnetz33.de</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab n="exploitation" type="copyright">
+               <orgName key="77582">Suhrkamp Verlag</orgName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990">Deutsches Literaturarchiv Marbach</institution>
+                     <repository key=""/>
+                     <idno>A:Kracauer</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves">1</ab>
+                        <ab type="pages">1</ab>
+                        <ab type="type">lt</ab>
+                        <ab type="subtype">cc</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                     </objectDesc>
+                     <handDesc n="typescript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc>Vermutlich ein Durchschlag, unsigniert. Der Brief ist in englischer Sprache
+          verfasst.</desc>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="7721">Siegfried Kracauer</persName>
+               <placeName key="49021" cert="medium" evidence="address">New York</placeName>
+               <date when="1947-11-02" cert="high" evidence="text">2.11.1947</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="73655">Salman Schocken</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic n="1" url="cor_krsi_scsa_19471102_cc_01"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <ab type="salutationType">F2</ab>
+            <p>56 West 75<hi rend="sup">th</hi> Street<lb/>
+               <placeName key="49021" type="write">New
+            York</placeName> 23, <placeName key="50589">N.Y.</placeName>
+            </p>
+            <p rend="right">
+               <date when="1947-11-02" cert="high">November 2, 1947</date>
+            </p>
+            <p>
+               <emph n="salutation">Dear Mr. <persName key="73655" role="recipient">Schocken</persName>
+               </emph>:</p>
+            <p>Only yesterday did I learn from <name type="periodical" key="75026">"Aufbau"</name> that you
+          have celebrated your seventieth anniversary last week. So I am unfortunately coming too
+          late with my congratulations. But they are nevertheless sincere and affectionate. I have
+          always looked up to you, admiring the scope of your interests and your magnificent
+          readiness to translate ideas into actions. And it is a profoundly comforting thought that
+          you are now carrying on with undiminished strength, in a tireless effort to spread the
+          best of Jewish culture and heart. I personally owe much to what you have done and so do
+          innumerable others. And I also wish to tell you on this occasion that, whenever I had the
+          opportunity of talking with you, I felt deeply impressed and elated by the power and
+          radiance of your personality. These rare conversations belong among my most treasured
+          memories.</p>
+            <p rend="center">
+               <emph n="salute">Many happy returns. And all my good wishes</emph>.</p>
+            <p rend="center">
+               <emph n="salute">Sincerely yours</emph>,</p>
+            <p rend="center">
+               <persName key="7721" role="signed">Siegfried Kracauer</persName>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

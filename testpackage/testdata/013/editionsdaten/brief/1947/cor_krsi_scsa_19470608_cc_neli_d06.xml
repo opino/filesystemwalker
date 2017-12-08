@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Brief_intern.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert von DOM_briefe_v18_d01.xmind-->
+<!--Transformiert zu EdView_Brief_03.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="321981">
+         <titleStmt>
+            <title>Siegfried Kracauer an Salman Schocken</title>
+            <respStmt>
+               <resp ref="http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html">Herausgeberinformation</resp>
+               <orgName/>
+               <persName/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>
+                  <ref n="project">http://www.exilnetz33.de</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab n="exploitation" type="copyright">
+               <orgName key="77582">Suhrkamp Verlag</orgName>
+            </ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990">Deutsches Literaturarchiv Marbach</institution>
+                     <repository key=""/>
+                     <idno>A:Kracauer</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves">1</ab>
+                        <ab type="pages">1</ab>
+                        <ab type="type">lt</ab>
+                        <ab type="subtype">cc</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                     </objectDesc>
+                     <handDesc n="typescript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc>Vermutlich ein Durchschlag, unsigniert. Der Brief ist in englischer Sprache verfasst.</desc>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="7721">Siegfried Kracauer</persName>
+               <placeName key="49021" cert="medium" evidence="address">New York</placeName>
+               <date when="1947-06-08" cert="high" evidence="text">8.6.1947</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="73655">Salman Schocken</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">englisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic n="1" url="cor_krsi_scsa_19470608_cc_01"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <ab type="salutationType">F2</ab>
+            <p>
+               <orgName key="74641">Museum of Modern Art</orgName>
+               <lb/>11 West 53<hi rend="sup">rd</hi>
+          Street<lb/>Ci 5-8900<lb/>
+               <placeName key="49021" type="write">New York</placeName> 19,
+            <placeName key="50589">N.Y.</placeName>
+            </p>
+            <p rend="right">
+               <date when="1947-06-08" cert="high">June 8, 1947</date>
+            </p>
+            <p>
+               <emph n="salutation">Dear Mr. <persName key="73655" role="recipient">Schocken</persName>
+               </emph>:</p>
+            <p>Last week, I repeatedly called up at your office to make an appointment with you. Your
+            secretary<note type="com" cert="high">Vermutlich Frau <persName key="74652">Engel</persName>, vgl. Schockens <rs n="322223">Brief</rs> vom 5.9.1947.</note>,
+          obviously after having spoken with you, suggested that I should write to you about the
+          purpose of the interview I desired.</p>
+            <p>There must be a misunderstanding. I have nothing specific up my sleeves, except the great
+          pleasure of having a talk with you, which of course might touch on personal plans and
+          literary projects. Also, before your departure last year you had told me over the wire
+          that you looked forward to seeing me after your return.</p>
+            <p>Since you are no doubt frightfully crowded on the rare occasions you are coming to town,
+          I naturally understand that you may have no time for me. But should you nevertheless be
+          able to cut out an hour for lunch or so, you would make me really happy.</p>
+            <p rend="center">
+               <emph n="salute">With my best wishes,<lb/>Sincerely yours</emph>,</p>
+            <p rend="center">
+               <persName key="7721" role="signed">Siegfried Kracauer</persName>
+            </p>
+            <p rend="center">My book <name type="work" key="77192">"From Caligari to Hitler"</name> has
+          been published at the end of April. Things do not look too bad: there will be a reprinting
+          in July.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

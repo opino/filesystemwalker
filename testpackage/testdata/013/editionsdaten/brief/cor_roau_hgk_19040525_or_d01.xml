@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Brief_intern.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert von DOM_briefe_v18_d01.xmind-->
+<!--Transformiert zu EdView_Brief_03.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Briefwechsel August Rodin - Harry Graf Kessler</title>
+            <respStmt>
+               <resp ref="http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html">Herausgeberinformation</resp>
+               <orgName/>
+               <persName/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab>
+                  <bibl/>
+               </ab>
+               <p>
+                  <ref n="project">http://www.exilnetz33.de</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution/>
+                     <repository/>
+                     <idno/>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves"/>
+                        <ab type="pages"/>
+                        <ab type="type"/>
+                        <ab type="subtype"/>
+                        <ab type="edition"/>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                     </objectDesc>
+                     <handDesc n="manuscript">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc>Das Briefpapier enthält einen roten Vordruck mit der
+                        Adresse: 182, RUE DE L'UNIVERSITÉ Vermutlich von Hand des Sekretärs René Chéruy</desc>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="116">Rodin, Auguste</persName>
+               <date when="1904-05-25">25.5.1904</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="8299">Harry Graf Kessler</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="frz">Französisch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="cor_roau_hgk_19040525_or_01" n="1"/>
+      <graphic url="cor_roau_hgk_19040525_or_02" n="2"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <head/>
+            <p>
+               <note type="intern">Das Briefpapier enthält einen roten Vordruck mit der
+                        Adresse: 182, <rs>RUE DE L'UNIVERSITÉ</rs>
+               </note>
+               <note type="intern">Vermutlich von Hand des Sekretärs <persName>René Chéruy</persName>
+               </note>
+               <date n="1904-05-25">mercredi 25 Mai 1904</date>AMonsieur le Comte de Kessler<note>
+                  <persName role="rec"/>
+               </note>
+               <placeName>Weimar</placeName>
+            </p>
+            <p>
+               <emph n="salutation">Monsieur le Comte<note>
+                     <persName role="rec"/>
+                  </note>
+               </emph>
+            </p>
+            <p>Je songe en ce moment à préparer les pièces que je
+                    désire envoyer à l'Exposition de <placeName>Weimar</placeName>,
+                    Auriez-vous l'obligeance de me dire si cela vous plaît que j'envoie le <rs>buste de Rochefort</rs> que j'ai en bronze? Vous avez fort
+                    probablement déjà reçu un plâtre “<rs>Illusion</rs>” que j'ai fait expédier de
+                    l'Exposition de Düdorf ?</p>
+            <p>En l'attente de <pb/> votre
+                    réponse, j'ai l'honneur de vous adresser mes sincères souvenirs et
+                    mes respects. – </p>
+            <p>
+               <emph n="salute">
+                  <persName key="AR" role="signed">Aug Rodin</persName>
+               </emph>
+            </p>
+            <note type="intern">Unterschrift eigenhändig von Rodin</note>
+         </div>
+      </body>
+   </text>
+</TEI>

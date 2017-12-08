@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.dla-marbach.de/fileadmin/editionsprojekte/edview/EdView_Brief_intern.rnc" type="application/relax-ng-compact-syntax"?>
+<!--Transformiert von DOM_briefe_v18_d01.xmind-->
+<!--Transformiert zu EdView_Brief_03.rng-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc n="322225">
+         <titleStmt>
+            <title>Salman Schocken an Siegfried Kracauer</title>
+            <respStmt>
+               <resp ref="http://www.dla-marbach.de/fileadmin/editionsprojekte/neli/meta/hg_info.html">Herausgeberinformation</resp>
+               <orgName/>
+               <persName/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="71990">Deutsches Literaturarchiv Marbach</orgName>
+            </publisher>
+            <availability>
+               <ab type="editiontype">QE</ab>
+               <p>
+                  <ref n="project">http://www.exilnetz33.de</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab n="exploitation" type="copyright">unbekannt</ab>
+            <ab>
+               <msDesc>
+                  <msIdentifier>
+                     <institution key="71990">Deutsches Literaturarchiv Marbach</institution>
+                     <repository key=""/>
+                     <idno>A:Kracauer</idno>
+                  </msIdentifier>
+                  <physDesc>
+                     <objectDesc>
+                        <ab type="leaves">2</ab>
+                        <ab type="pages">2</ab>
+                        <ab type="type">lt</ab>
+                        <ab type="subtype">or</ab>
+                        <ab type="edition">Volltext</ab>
+                        <ab type="scripttype"/>
+                        <ab type="paper"/>
+                     </objectDesc>
+                     <handDesc n="typescriptHand">
+                        <handNote/>
+                     </handDesc>
+                     <additions>
+                        <desc>Original, vermutlich ein Diktatbrief mit der Unterschrift von Salman
+          Schocken. Als Vordruck ist in der oberen Mitte des Blattes in Großbuchstaben die
+          Abseneradresse ("Windy Hill, Hunting Ridge Road, Stamford, Conn.") angegeben. Die
+          Fortsetzung des Textes auf dem zweiten Blatt ist in der rechten Ecke unten mit "-2-"
+          angegeben, das zweite Blatt oben mittig mit "-2-" gekennzeichnet.</desc>
+                     </additions>
+                  </physDesc>
+               </msDesc>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="73655">Salman Schocken</persName>
+               <placeName key="74653" cert="medium" evidence="form">Stamford</placeName>
+               <date when="1947-09-23" cert="high" evidence="text">23.9.1947</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="7721">Siegfried Kracauer</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="de">deutsch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic n="1" url="cor_scsa_krsi_19470923_or_01"/>
+      <graphic n="2" url="cor_scsa_krsi_19470923_or_02"/>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <ab type="salutationType">F2</ab>
+            <p rend="right">
+               <date when="1947-09-23" cert="high">September 23,
+          1947</date>
+               <lb/>(Dictaphone: 9/20.)</p>
+            <p>Dr. Siegfried Kracauer<lb/>56 West 75th Street<lb/>
+               <placeName key="49021">New
+            York</placeName> 23, <placeName key="50589">N.Y.</placeName>
+            </p>
+            <p>
+               <emph n="salutation">Lieber Dr. <persName key="7721" role="recipient">Kracauer</persName>
+               </emph>:</p>
+            <p>Ich glaube, Sie wissen, wie schwer es mir war, meinen letzten <rs n="322223">Brief</rs>
+          an Sie zu schreiben.</p>
+            <p>Wir versuchen einen amerikanischen juedischen Verlag<note type="reg">
+                  <orgName key="74647">Schocken Books</orgName>
+               </note> aufzubauen. Was wir bisher herausgebracht haben,
+          zeigt, was wir aus eigenen Mitteln und aus unseren alten Bestaenden mit unserem bisherigen
+          Kreis der Autoren bieten koennen.</p>
+            <p>Wo wir aus diesem Kreise herausgehen, muesste es rein amerikanisch sein, denn wir leiden
+          jetzt schon daran, dass wir, vom amerikanischen Gesichtspunkt aus gesehen, "Reprints von
+          aussen bringen".</p>
+            <p>Die Herausgabe von Werken von <persName key="5584">Joseph Roth</persName> liegt ganz
+          ausserhalb des Rahmens unseres Planes. Haetten wir solche Plaene, dann koennte ich mir gut
+          vorstellen, wie leicht es waere, Sie fuer eine Mitarbeit einzuladen.</p>
+            <p>Ich weiss nicht, ob Ihnen aus unseren Gespraechen deutlich geworden ist, dass, soweit es
+          sich um meine<pb corresp="2" n="2"/> Arbeit und Beratung handelt, der <orgName key="74647">Schocken
+            Verlag</orgName> eine ganz bestimmte Aufgabe hat.</p>
+            <p>Ich wuerde es sehr begruessen, wenn Sie mir kurz ueber Ihre zwei Vorschlaege schreiben
+            wuerden.<note type="com" cert="high">In seinem <rs n="321983">Brief</rs> an Schocken vom
+            14.9.1947 spricht Kracauer von zwei für den <orgName key="74647">Verlag</orgName>
+            interessanten Buchprojekten, ohne jedoch weitere Hinweise zu geben.</note>
+            </p>
+            <p>
+               <emph n="salute">Mit den besten Gruessen</emph>
+            </p>
+            <p rend="right">
+               <emph n="salute">Ihr</emph>
+            </p>
+            <p rend="right">
+               <persName key="73655" role="signed">Salman Schocken</persName>
+            </p>
+            <p rend="right">Salman Schocken</p>
+            <p>Dic.ss:fw</p>
+         </div>
+      </body>
+   </text>
+</TEI>

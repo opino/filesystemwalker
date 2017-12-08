@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd"?>
+
+<!-- DOM-Version: DOM_briefe_v13_d01.xmind -->
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Siegfried Kracauer an Salman Schocken</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Portal Vernetzte Korrespondenzen: <ref>http://www.exilnetz33.de</ref></p>
+        <p><persName key="x" role="x">Thomas Burch</persName>, <persName key="71923" role="x">Vera
+            Hildenbrandt</persName>, <persName key="71920" role="hg">Roland S. Kamzelak</persName>,
+            <persName key="x" role="x">Paul Molitor</persName>, <persName key="x" role="x">Claudine
+            Moulin</persName>, <persName key="x" role="x">Jörg Ritter</persName></p>
+        <ab type="editiontype">QE</ab>
+      </publicationStmt>
+      <sourceDesc>
+        <p><orgName key="71990">Deutsches Literaturarchiv Marbach</orgName></p>
+        <p><bibl>A:Kracauer</bibl></p>
+
+        <ab type="copyright"/>
+        <ab type="leaves">1</ab>
+        <ab type="pages">1</ab>
+        <ab type="type">lt</ab>
+        <ab type="subtype">cc</ab>
+        <ab type="script">ts</ab>
+        <ab type="scripttype"/>
+        <ab type="paper"/>
+        <ab type="PA">F2</ab>
+        <ab type="location"><placeName type="write" key="49021" cert="medium" evidence="Adresszeile"
+            >New York</placeName></ab>
+        <ab type="date"><date n="1947-06-08" cert="high">8.6.1947</date></ab>
+        <ab type="role"><persName key="7721" role="aut">Siegfried Kracauer</persName></ab>
+        <ab type="role"><persName key="73655" role="rec">Salman Schocken</persName></ab>
+        <ab type="no" prev="x" next="x">321981</ab>
+        <ab type="reg"/>
+        <ab type="desc">Vermutl. ein Durchschlag, unsigniert.</ab>
+      </sourceDesc>
+
+    </fileDesc>
+
+    <revisionDesc>
+      <change n="transcription">
+        <persName key="71922">Anne Lorenz</persName><date n="2013-11-13">13.11.2013</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71921">Angelika Kreh</persName>
+        <date n="2013-11-20">20.11.2013</date>
+      </change>
+
+      <change n="collation">
+        <persName key="71920">Roland S. Kamzelak</persName>
+        <date n="2014-02-11">11.2.2014</date>
+      </change>
+
+      <change n="edition"/>
+
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+
+        <figure>
+          <graphic n="1" url="cor_krsi_scsa_19470608_cc_01"/>
+        </figure>
+
+        <p><orgName key="74641">Museum of Modern Art</orgName><lb/><placeName key="74642">11 West
+              53<hi rend="sup">rd</hi> Street</placeName><lb/>Ci 5-8900<lb/><placeName key="49021"
+            >New York</placeName> 19<note type="intern">Wird hier der Postcode mitgetagged, "New
+            York 19" als eigener Lemmaeintrag?</note>, <placeName key="50589">N.Y.</placeName></p>
+
+        <p rend="right"><date n="1947-06-08">June 8, 1947</date></p>
+
+        <p><emph n="salutation">Dear Mr. <persName key="73655" role="rec"
+          >Schocken</persName></emph>:</p>
+
+        <p>Last week, I repeatedly called up at your office to make an appointment with you. Your
+            secretary<note type="reg"><persName key="x"/></note>, obviously after having spoken with
+          you, suggested that I should write to you about the purpose of the interview I
+          desired.</p>
+
+        <p>There must be a misunderstanding. I have nothing specific up my sleeves, except the great
+          pleasure of having a talk with you, which of course might touch on personal plans and
+          literary projects. Also, before your departure last year you had told me over the wire
+          that you looked forward to seeing me after your return.</p>
+
+        <p>Since you are no doubt frightfully crowded on the rare occasions you are coming to town,
+          I naturally understand that you may have no time for me. But should you nevertheless be
+          able to cut out an hour for lunch or so, you would make me really happy.</p>
+
+        <p rend="center"><emph n="salute">With my best wishes</emph>,<lb/>
+          <emph n="salute">Sincerely yours</emph>,</p>
+
+        <p rend="center"><persName key="7721" role="aut">Siegfried Kracauer</persName></p>
+
+        <p rend="center">My book "<name type="wrk" key="74643">From Caligari to Hitler</name>" has
+          been published at the <date from="1947-04-21" to="1947-04-31" cert="medium">end of
+            April</date>. Things do not look too bad: there will be a reprinting in <date
+            n="1947-07-00" cert="medium">July</date>.</p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
