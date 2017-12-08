@@ -217,7 +217,7 @@ class Ui_MainWindow(object):
             print("lineEdit ist ausgefüllt TEXT IST FALSCH")
         else: 
             amifolder = ["beispiele","bilder","editionsdaten","html","meta","mitarbeiter","publish","temp","transfer","verschiedenes","x_archiv"] 
-            self.myAmiFolderCheck(PureWindowsPath('C:/Users/seiffert/eclipse-workspace/20171127_PythonDevelopment/testpackage/testdata/013'), amifolder)
+            self.myAmiFolderCheck(PureWindowsPath('C:/Users/seiffert/eclipse-workspace/filesystemwalker/testpackage/testdata/013'), amifolder)                                                   
             print("lineEdit ist leer TEXT IST FALSCH")    
            
         
@@ -231,7 +231,7 @@ class Ui_MainWindow(object):
         #    Brief
         #        backup
         #        img-jpg
-        #        img-tiff
+        #        img-tif
         #        19xx
         #        19xx
         #        19xx
@@ -318,7 +318,8 @@ class Ui_MainWindow(object):
     
     
 
-        os.chdir("C:\\Users\\seiffert\eclipse-workspace\\20171127_PythonDevelopment\\testpackage\\testdata\\013\\editionsdaten\\brief\\")
+        os.chdir("C:\\Users\\seiffert\eclipse-workspace\\filesystemwalker\\testpackage\\testdata\\013\\editionsdaten\\brief\\")
+             
         #cmd = "C:\\Users\\seiffert\eclipse-workspace\\20171127_PythonDevelopment\\testpackage\\testdata\\013\\editionsdaten\\brief\\ java -jar saxon9ee.jar -s:cor_roau_hgk_19040307_or_d01.xml -xsl:Transformation_EdView_test.xsl -o:xsloutput"
       
         cmd = " java -jar saxon9ee.jar -s:cor_roau_hgk_19040307_or_d01.xml -xsl:Transformation_EdView_test.xsl -o:xsloutput"
